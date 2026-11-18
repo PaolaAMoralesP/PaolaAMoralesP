@@ -30,7 +30,7 @@ Gracias a mi formación previa en desarrollo full stack (React, JavaScript, Java
 🖼️ **Portafolio:** próximamente.
 
 ## Mis estadísticas 🎢:
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaAMoralesP&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaAMoralesP&layout=compact&theme=radical&size_weight=0&count_weight=1)
 
 ## Cómo contactarme 💌:
 - **LinkedIn:** [linkedin.com/in/paola-morales-](https://www.linkedin.com/in/paola-morales-/)
