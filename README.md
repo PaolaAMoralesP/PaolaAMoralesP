@@ -9,6 +9,7 @@ Gracias a mi formación previa en desarrollo full stack (React, JavaScript, Java
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![FigJam](https://img.shields.io/badge/FigJam-A259FF?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/figjam/)
 [![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/)
+[![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
 
 `UX research` · `User personas` · `Arquitectura de información` · `Wireframes` · `Prototipado` · `UI design` · `Design systems` · `Visitor experience (VX)` · `Accesibilidad (WCAG)`
 
@@ -24,10 +25,10 @@ Gracias a mi formación previa en desarrollo full stack (React, JavaScript, Java
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-🖼️ **Portafolio de diseño** (case studies de UX/UI): próximamente.
+🖼️ **Portafolio:** próximamente.
 
-## Estadísticas 📊
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaAMoralesP&layout=compact&hide_border=true&bg_color=F1F1F1&title_color=111111&text_color=333333)
+## Mis estadísticas 🎢:
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaAMoralesP&layout=compact&theme=radical)
 
-## Contacto 💌
+## Cómo contactarme 💌:
 - **LinkedIn:** [linkedin.com/in/paola-morales-](https://www.linkedin.com/in/paola-morales-/)
