@@ -11,6 +11,8 @@ Gracias a mi formación previa en desarrollo full stack (React, JavaScript, Java
 [![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/)
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
 
+**Adobe:** Photoshop · Illustrator · InDesign · After Effects
+
 `UX research` · `User personas` · `Arquitectura de información` · `Wireframes` · `Prototipado` · `UI design` · `Design systems` · `Visitor experience (VX)` · `Accesibilidad (WCAG)`
 
 ## Desarrollo 👩🏽‍💻
